@@ -1,0 +1,2 @@
+class Treinador < ApplicationRecord
+end
